@@ -1,0 +1,45 @@
+{
+  "name": "guvi",
+  "version": "1.0.0",
+  "description": "it is backen repo for the course guvi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Swetha1103/node-fsd61wde.git"
+  },
+  "keywords": [
+    "backend",
+    "nodeJS",
+    "expressJS",
+    "mongoDB",
+    "postman",
+    "VScodeIDE",
+    "Axios",
+    "body-parser",
+    "cookie-parser",
+    "morgan",
+    "env",
+    "jsonwebtoken",
+    "middleware",
+    "logger"
+  ],
+  "author": "swetha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Swetha1103/node-fsd61wde/issues"
+  },
+  "homepage": "https://github.com/R-Swetha1103/node-fsd61wde#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
